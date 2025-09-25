@@ -23,7 +23,7 @@ def read_words(file_name):
         return tokens_alpha
 
 
-def count_ingredients(ingredients):
+def count_ingredients(ingredients, words):
     ingredients_count = [(w, words.count(w)) for w in ingredients]
     return sorted(ingredients_count, key=lambda tup: tup[1])
 
