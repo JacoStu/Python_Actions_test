@@ -1,0 +1,12 @@
+fish
+cod
+haddock
+flour
+powder
+salt
+pepper
+beer
+oil
+potatoes
+vinegar
+sauce
